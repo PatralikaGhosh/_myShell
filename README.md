@@ -6,8 +6,7 @@ This is my own personal shell, these are the commands that you can currently do 
 2. Run `./shell`
 
 Commands that work:
-
-1.`echo`.
+1. `echo`
 2. `ls`, `ls -l -a`, `ls -l /usr/bin`.
 3. `cd` <directory>, `cd ../../`, `cd -`, `cd /home`.
 4. `pwd`.
